@@ -1,7 +1,7 @@
-weshouldtryit.com
+cumcloser.com
 =================
 
-Source code of https://weshouldtryit.com
+Source code of https://cumcloser.com
 
 LICENSE apples to /src folder.
 
